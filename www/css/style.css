@@ -1,0 +1,8 @@
+h2.story-title { 
+	white-space: normal;
+}
+
+p.subtext {
+	font-size: 13px;
+	text-align: end;
+}
